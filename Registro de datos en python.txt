@@ -1,0 +1,6 @@
+Nombre: sa
+Apellidos: sa
+Teléfono: asa
+Estatura: saa
+Edad: ass
+Sexo: Hombre
